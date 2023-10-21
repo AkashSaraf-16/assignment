@@ -1,1 +1,1 @@
-# Assignment to illustrate how async opertaions on web.
+# Assignment to illustrate how async operations work on web.
